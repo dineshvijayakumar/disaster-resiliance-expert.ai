@@ -1,0 +1,8 @@
+expertai-nlapi
+snscrape
+pandas
+matplotlib
+seaborn
+jinja2
+google-colab
+flask
